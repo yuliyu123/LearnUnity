@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="scol.cs" t="Include" />
+        <e p="scripts" t="Include">
+          <e p="Ball.cs" t="Include" />
+          <e p="CurveController.cs" t="Include" />
+          <e p="GameControl.cs" t="Include" />
+          <e p="LinePool.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="RepeatingBackground.cs" t="Include" />
+          <e p="ScrollingObject.cs" t="Include" />
+          <e p="spiritController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BallSkate.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_BallSkate.-741566003.00" t="ExcludeRecursive" />
+  </component>
+</project>
